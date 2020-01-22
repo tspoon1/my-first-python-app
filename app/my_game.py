@@ -33,8 +33,8 @@ if __name__ == "__main__":
     print("THANKS, PLEASE PLAY AGAIN!")
     print("-------------------")
 
-    #breakpoint()
-    #print(dir(random))
-    #print(help(random.choice)) # then press "q" to quit
-    #print(type(options))
-    #print(type(user_choice))
+    breakpoint()
+    print(dir(random))
+    print(help(random.choice)) # then press "q" to quit
+    print(type(options))
+    print(type(user_choice))
